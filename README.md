@@ -38,24 +38,13 @@ Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
 <img width="594" alt="colors" src="https://cloud.githubusercontent.com/assets/398893/14360267/6d0aa34c-fcaa-11e5-9c35-fef24188842d.png">
 
-### [DevDocs](https://github.com/yannickglt/alfred-devdocs) (v1.0.2) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/devdocs/devdocs.alfredworkflow)
+### [DashDoc](https://kapeli.com/dash)
 
-Search through [DevDocs](http://devdocs.io/) documentations by filtering the keyword for each language/library ~ *by [@yannickglt](https://github.com/yannickglt).*
+Use Dash Alfred Integration
 
-> Triggers: `angular`, `coffeescript`, `css`, `d3`, `dom`, `dom_events`, `git`, `html`, `http`, `javascript`, `jquery`, `jqueryui`, `lodash`, `php`, `sass`, `backbone`, `c`, `cpp`, `chai`, `cordova`, `ember`, `express`, `go`, `grunt`, `haskell`, `jquerymobile`, `knockout`, `laravel`, `less`, `maxcdn`, `moment`, `node`, `postgresql`, `python`, `redis`, `requirejs`, `ruby`, `rails`, `sinon`, `underscore`, `yii`.
-
-<img width="594" alt="devdocs-1" src="https://cloud.githubusercontent.com/assets/398893/14360266/6d0aa28e-fcaa-11e5-8a3f-a7ff95d226ef.png">
-<img width="594" alt="devdocs-2" src="https://cloud.githubusercontent.com/assets/398893/14360268/6d0b738a-fcaa-11e5-9182-3681a9c0c9cc.png">
-<img width="594" alt="devdocs-3" src="https://cloud.githubusercontent.com/assets/398893/14360264/6d080bd2-fcaa-11e5-85cc-a2ca197c6dd6.png">
+<img width="594" alt="domainr" src="http://alexzou.qiniudn.com/Screen%20Shot%202016-11-17%20at%209.31.06%20AM.png">
 
 
-### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
-
-Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
-
-> Triggers: `domainr`.
-
-<img width="594" alt="domainr" src="https://cloud.githubusercontent.com/assets/398893/14360269/6d0fe35c-fcaa-11e5-9970-3ad6f4b9c8f0.png">
 
 ### [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/emoji/emoji.alfredworkflow)
 
@@ -192,3 +181,5 @@ See [Releases](https://github.com/zenorocha/alfred-workflows/releases) for detai
 ## License
 
 [MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+
+
